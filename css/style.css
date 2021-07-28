@@ -180,6 +180,7 @@ td:not(:first-child){
 }
 .topsolver td {
     padding: 15px 5px;
+    vertical-align: middle;
 }
 
 .topsolver thead {
